@@ -37,3 +37,10 @@ td {
 }
 
 /*end of table styles */
+
+/* start of homepage styles */
+.col2{
+    display: flex;
+    gap: 20px;
+}
+/* end of homepage styles */
